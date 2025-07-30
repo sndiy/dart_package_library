@@ -1,5 +1,5 @@
 String sayHello(String name) {
-  return "Hello $name, i am a legends";
+  return "Hello $name, you are to be a legends";
 }
 
 void sample() {}
